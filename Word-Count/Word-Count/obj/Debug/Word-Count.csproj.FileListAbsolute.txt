@@ -1,0 +1,9 @@
+C:\Users\NASA\source\repos\Word-Count\Word-Count\bin\Debug\Word-Count.exe.config
+C:\Users\NASA\source\repos\Word-Count\Word-Count\bin\Debug\Word-Count.exe
+C:\Users\NASA\source\repos\Word-Count\Word-Count\bin\Debug\Word-Count.pdb
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word_Count.Form1.resources
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word_Count.Properties.Resources.resources
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word-Count.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word-Count.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word-Count.exe
+C:\Users\NASA\source\repos\Word-Count\Word-Count\obj\Debug\Word-Count.pdb
